@@ -20,7 +20,8 @@ const userSchema = new Schema({
     },
     phone: {
         type: String,
-        required: true
+        required: true,
+        min: [10, "Phone number should be 10 digits"]
     },
     active: {
         type: Boolean,

@@ -3,9 +3,9 @@ import jwt from 'jsonwebtoken'
 
 
 const registerUser = async function (req, res) {
-    const { userName, email, password, role, } = await req.body
+    const { userName, email, password, role, phone } = await req.body
     if (
-        [email, userName, password, role].some((field) => field?.trim() === "")
+        [email, userName, password, role, phone].some((field) => field?.trim() === "")
     ) {
         throw new Error(400, "All fields are required")
     }
@@ -20,6 +20,7 @@ const registerUser = async function (req, res) {
         userName,
         email,
         password,
+        phone,
         role
     })
     return res.status(201).json(
@@ -103,7 +104,7 @@ const logoutUser = async (req, res) => {
 }
 
 const updateUser = async function (req, res) {
-    const { userName, email, password } = await req.body
+    const { userName, email, password, phone } = await req.body
     const userId = req.user; // middleware authentication
 
     let user = await User.findById(userId);
@@ -116,11 +117,12 @@ const updateUser = async function (req, res) {
     if (userName) { user.userName = userName }
     if (email) { user.email = email }
     if (password) { user.password = password }
-
+    if (phone) { user.phone = phone }
     await user.updateOne({
         userName: user.userName,
         email: user.email,
         password: user.password,
+        phone: user.phone,
         role: user.role
     })
     return res.status(200).cookie("tokens", user.refreshToken).json({
