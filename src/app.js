@@ -1,7 +1,7 @@
 import express, { json, urlencoded } from "express"
 import dotenv from "dotenv"
 import cors from 'cors'
-import eventsInCity from './routes/eventsInCity.js'
+import userRoutes from "./rotuers/user.routes.js";
 
 
 
@@ -38,11 +38,13 @@ app.use(express.static('data'))
 
 
 //router
-app.use("/api/v1/", eventsInCity)
-app.get("/", (req, res) => {
+app.get("/health", (req, res) => {
     res.send({
-        "active": "True"
+        "active": "True",
+        "health": "Live"
     });
 })
+app.use("/api/v1/users", userRoutes)
+
 
 export { app }
