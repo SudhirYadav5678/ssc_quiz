@@ -3,9 +3,9 @@ import jwt from 'jsonwebtoken'
 
 
 const registerUser = async function (req, res) {
-    const { userName, email, password, role, phone } = await req.body
+    const { userName, email, password, phone } = await req.body
     if (
-        [email, userName, password, role, phone].some((field) => field?.trim() === "")
+        [email, userName, password, phone].some((field) => field?.trim() === "")
     ) {
         throw new Error(400, "All fields are required")
     }
@@ -20,8 +20,7 @@ const registerUser = async function (req, res) {
         userName,
         email,
         password,
-        phone,
-        role
+        phone
     })
     return res.status(201).json(
         {
