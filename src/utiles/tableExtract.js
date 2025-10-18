@@ -7,6 +7,7 @@ import { JSDOM } from "jsdom";
  * @param {string} docxPath - Input Word file path
  * @param {string} outputPath - Output JSON file path
  */
+
 export default async function extractQuizTablesToJson(docxPath, outputPath) {
     try {
         // Step 1: Convert Word -> HTML using mammoth
@@ -85,6 +86,7 @@ export default async function extractQuizTablesToJson(docxPath, outputPath) {
         console.log(`✅ Extracted ${allQuizzes.length} question(s) → ${outputPath}`);
     } catch (error) {
         console.error("❌ Error extracting tables:", error);
+        process.exit(1);
     }
 }
 
