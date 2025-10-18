@@ -7,7 +7,7 @@ import { JSDOM } from "jsdom";
  * @param {string} docxPath - Input Word file path
  * @param {string} outputPath - Output JSON file path
  */
-async function extractQuizTablesToJson(docxPath, outputPath) {
+export default async function extractQuizTablesToJson(docxPath, outputPath) {
     try {
         // Step 1: Convert Word -> HTML using mammoth
         const { value: html } = await mammoth.convertToHtml({ path: docxPath });
@@ -88,5 +88,8 @@ async function extractQuizTablesToJson(docxPath, outputPath) {
     }
 }
 
+
+
+
 // Example usage
-extractQuizTablesToJson("quiz.docx", "quiz_output.json");
+// extractQuizTablesToJson("quiz.docx", "quiz_output.json");

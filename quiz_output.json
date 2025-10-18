@@ -1,0 +1,482 @@
+[
+  {
+    "question_en": "Under the Code on Wages, 2019, which legislations were repealed and replaced?वेतन संहिता, 2019 के अंतर्गत किन अधिनियमों को निरस्त कर दिया गया और प्रतिस्थापित किया गया?",
+    "question_hi": "",
+    "type": "multiple_choice",
+    "options": [
+      "Payment of Wages Act, 1936; Minimum Wages Act, 1948; Payment of Bonus Act, 1965; Equal Remuneration Act, 1976",
+      "Payment of Gratuity Act, 1972; EPF Act, 1952; Payment of Bonus Act, 1965",
+      "Employees Compensation Act, 1923; Payment of Bonus Act, 1965; Equal Remuneration Act, 1976",
+      "Only Minimum Wages Act, 1948"
+    ],
+    "answer": 1,
+    "solution_en": "The Code on Wages, 2019 consolidates four laws: Payment of Wages Act, Minimum Wages Act, Payment of Bonus Act, and Equal Remuneration Act.वेतन संहिता, 2019 ने चार अधिनियमों को सम्मिलित किया है: वेतन भुगतान अधिनियम, न्यूनतम वेतन अधिनियम, बोनस अधिनियम और समान पारिश्रमिक अधिनियम।",
+    "solution_hi": "",
+    "positive_marks": 4,
+    "negative_marks": 1
+  },
+  {
+    "question_en": "What is the standard working day under the Code on Wages, 2019?वेतन संहिता, 2019 के अंतर्गत मानक कार्यदिवस कितने घंटे का है?",
+    "question_hi": "",
+    "type": "multiple_choice",
+    "options": [
+      "9 hours",
+      "8 hours",
+      "10 hours",
+      "7 hours"
+    ],
+    "answer": 2,
+    "solution_en": "The Code on Wages, 2019 fixes the normal working day as 8 hours (including rest intervals).वेतन संहिता, 2019 के अंतर्गत सामान्य कार्यदिवस 8 घंटे का होगा (आराम सहित)।",
+    "solution_hi": "",
+    "positive_marks": 4,
+    "negative_marks": 1
+  },
+  {
+    "question_en": "Under the Code on Wages, 2019, the rate of overtime wages is fixed at?वेतन संहिता, 2019 के अंतर्गत अधिविकाल (ओवरटाइम) का दर कितना तय किया गया है?",
+    "question_hi": "",
+    "type": "multiple_choice",
+    "options": [
+      "Same as normal wages",
+      "1.5 times of normal wages",
+      "2 times of normal wages",
+      "3 times of normal wages"
+    ],
+    "answer": 3,
+    "solution_en": "The Code on Wages, 2019 standardizes the overtime rate at twice the normal wage rate across India.वेतन संहिता, 2019 में ओवरटाइम का दर सामान्य वेतन का दुगुना निर्धारित किया गया है।",
+    "solution_hi": "",
+    "positive_marks": 4,
+    "negative_marks": 1
+  },
+  {
+    "question_en": "What is the maximum percentage of total wages allowed as remuneration in kind under the Code on Wages, 2019?वेतन संहिता, 2019 के अंतर्गत वेतन का अधिकतम कितने प्रतिशत भाग वस्तु स्वरूप (Remuneration in Kind) दिया जा सकता है?",
+    "question_hi": "",
+    "type": "multiple_choice",
+    "options": [
+      "5%",
+      "10%",
+      "15%",
+      "20%"
+    ],
+    "answer": 3,
+    "solution_en": "The Code on Wages, 2019 allows up to 15% of total wages to be paid in kind.वेतन संहिता, 2019 में कुल वेतन का अधिकतम 15% वस्तु स्वरूप दिया जा सकता है।",
+    "solution_hi": "",
+    "positive_marks": 4,
+    "negative_marks": 1
+  },
+  {
+    "question_en": "Under the Code on Wages, 2019, equal remuneration provisions explicitly include which group in addition to men and women?वेतन संहिता, 2019 के अंतर्गत समान पारिश्रमिक प्रावधानों में पुरुष और महिला के साथ किसे स्पष्ट रूप से सम्मिलित किया गया है?",
+    "question_hi": "",
+    "type": "multiple_choice",
+    "options": [
+      "Apprentices",
+      "Contract Labour",
+      "Transgender persons",
+      "Retired persons"
+    ],
+    "answer": 3,
+    "solution_en": "The Code on Wages, 2019 explicitly includes transgender individuals in its equal remuneration and non-discrimination provisions.वेतन संहिता, 2019 में ट्रांसजेंडर व्यक्तियों को भी समान पारिश्रमिक और भेदभाव-रहित प्रावधानों में सम्मिलित किया गया है।",
+    "solution_hi": "",
+    "positive_marks": 4,
+    "negative_marks": 1
+  },
+  {
+    "question_en": "What is the maximum limit of excluded components of wages under the Code on Wages, 2019?वेतन संहिता, 2019 के अंतर्गत वेतन से बहिष्कृत घटकों की अधिकतम सीमा क्या है?",
+    "question_hi": "",
+    "type": "multiple_choice",
+    "options": [
+      "25% of total remuneration",
+      "40% of total remuneration",
+      "50% of total remuneration",
+      "60% of total remuneration"
+    ],
+    "answer": 3,
+    "solution_en": "The Code provides that excluded components cannot exceed 50% of total remuneration; excess is added back to wages.वेतन संहिता, 2019 के अनुसार बहिष्कृत घटक कुल पारिश्रमिक का 50% से अधिक नहीं हो सकते, अतिरिक्त भाग वेतन में जोड़ा जाएगा।",
+    "solution_hi": "",
+    "positive_marks": 4,
+    "negative_marks": 1
+  },
+  {
+    "question_en": "Under the Code on Wages, 2019, payment of wages on a daily basis must be made by?वेतन संहिता, 2019 के अनुसार दैनिक आधार पर वेतन कब दिया जाना चाहिए?",
+    "question_hi": "",
+    "type": "multiple_choice",
+    "options": [
+      "Next working day",
+      "End of the shift",
+      "Every Saturday",
+      "Before 7th day of next month"
+    ],
+    "answer": 2,
+    "solution_en": "For daily basis employees, wages must be paid at the end of the shift.दैनिक वेतनभोगियों को वेतन शिफ्ट समाप्ति पर दिया जाना चाहिए।",
+    "solution_hi": "",
+    "positive_marks": 4,
+    "negative_marks": 1
+  },
+  {
+    "question_en": "What is the wage payment timeline for monthly basis employees under the Code on Wages, 2019?वेतन संहिता, 2019 के अनुसार मासिक आधार पर कर्मचारियों को वेतन कब तक दिया जाना चाहिए?",
+    "question_hi": "",
+    "type": "multiple_choice",
+    "options": [
+      "Before 10th of next month",
+      "Before 5th of next month",
+      "Before 7th of next month",
+      "Last working day of current month"
+    ],
+    "answer": 3,
+    "solution_en": "Wages must be paid before the expiry of the 7th day of the succeeding month.मासिक वेतन अगले महीने की 7वीं तिथि तक अवश्य दिया जाना चाहिए।",
+    "solution_hi": "",
+    "positive_marks": 4,
+    "negative_marks": 1
+  },
+  {
+    "question_en": "Within how many days must wages be paid after dismissal, resignation, or retrenchment under the Code on Wages, 2019?वेतन संहिता, 2019 के अनुसार बर्खास्तगी, इस्तीफा या छंटनी के बाद कितने दिनों में वेतन दिया जाना चाहिए?",
+    "question_hi": "",
+    "type": "multiple_choice",
+    "options": [
+      "Same day",
+      "Within 2 working days",
+      "Within 5 working days",
+      "Within 7 working days"
+    ],
+    "answer": 2,
+    "solution_en": "The Code requires wages to be paid within 2 working days of termination or resignation.वेतन संहिता, 2019 के अनुसार बर्खास्तगी या इस्तीफे के 2 कार्य दिवसों के भीतर वेतन दिया जाना चाहिए।",
+    "solution_hi": "",
+    "positive_marks": 4,
+    "negative_marks": 1
+  },
+  {
+    "question_en": "Who is empowered to fix minimum wages under the Code on Wages, 2019?वेतन संहिता, 2019 के अंतर्गत न्यूनतम वेतन तय करने का अधिकार किसके पास है?",
+    "question_hi": "",
+    "type": "multiple_choice",
+    "options": [
+      "Only State Government",
+      "Only Central Government",
+      "Both Central and State Governments",
+      "Labour Courts"
+    ],
+    "answer": 3,
+    "solution_en": "Both Central and State Governments are empowered to fix minimum wages under the Code.वेतन संहिता, 2019 में न्यूनतम वेतन तय करने का अधिकार केंद्र और राज्य दोनों सरकारों के पास है।",
+    "solution_hi": "",
+    "positive_marks": 4,
+    "negative_marks": 1
+  },
+  {
+    "question_en": "Which category of employees does the Code on Wages, 2019 cover for minimum wages?वेतन संहिता, 2019 के अंतर्गत न्यूनतम वेतन किन कर्मचारियों पर लागू है?",
+    "question_hi": "",
+    "type": "multiple_choice",
+    "options": [
+      "Only unskilled workers",
+      "Only scheduled employments",
+      "All employees including managerial, administrative and technical",
+      "Only industrial workers"
+    ],
+    "answer": 3,
+    "solution_en": "The Code expands minimum wage coverage to all employees including managerial, administrative, supervisory, and technical roles.वेतन संहिता, 2019 में न्यूनतम वेतन का प्रावधान सभी कर्मचारियों पर लागू है, जिनमें प्रबंधकीय, प्रशासनिक और तकनीकी भी शामिल हैं।",
+    "solution_hi": "",
+    "positive_marks": 4,
+    "negative_marks": 1
+  },
+  {
+    "question_en": "Under the Code on Wages, 2019, what is the uniformity introduced in overtime wages?वेतन संहिता, 2019 के अंतर्गत अधिविकाल (ओवरटाइम) वेतन में क्या एकरूपता लाई गई है?",
+    "question_hi": "",
+    "type": "multiple_choice",
+    "options": [
+      "Overtime rate varies across states",
+      "Central Govt decides rate for all",
+      "Standardized at 2 times normal wages",
+      "Fixed at 1.5 times for all employees"
+    ],
+    "answer": 3,
+    "solution_en": "The Code ensures uniformity by fixing overtime wages at 2 times of normal wages throughout India.वेतन संहिता, 2019 पूरे भारत में ओवरटाइम वेतन को सामान्य वेतन का दुगुना बनाकर एकरूपता सुनिश्चित करता है।",
+    "solution_hi": "",
+    "positive_marks": 4,
+    "negative_marks": 1
+  },
+  {
+    "question_en": "Which new ground for disqualification of bonus is introduced under the Code on Wages, 2019?वेतन संहिता, 2019 के अंतर्गत बोनस से अपात्रता का नया आधार कौन-सा जोड़ा गया है?",
+    "question_hi": "",
+    "type": "multiple_choice",
+    "options": [
+      "Fraud",
+      "Theft",
+      "Sexual Harassment",
+      "Violent Behavior"
+    ],
+    "answer": 3,
+    "solution_en": "The Code on Wages, 2019 newly adds sexual harassment as a ground for disqualification from bonus.वेतन संहिता, 2019 में बोनस से अपात्रता का नया आधार यौन उत्पीड़न जोड़ा गया है।",
+    "solution_hi": "",
+    "positive_marks": 4,
+    "negative_marks": 1
+  },
+  {
+    "question_en": "Who has been introduced as “Inspector-cum-Facilitator” under the Code on Wages, 2019?वेतन संहिता, 2019 के अंतर्गत “निरीक्षक सह प्रवर्तक” किस रूप में प्रस्तुत किया गया है?",
+    "question_hi": "",
+    "type": "multiple_choice",
+    "options": [
+      "Only for investigation",
+      "To facilitate compliance and inspect",
+      "Only to punish violations",
+      "To conduct physical inspections only"
+    ],
+    "answer": 2,
+    "solution_en": "Inspector-cum-Facilitator is introduced to both facilitate compliance and conduct inspections (including e-inspections).निरीक्षक सह प्रवर्तक को अनुपालन सुनिश्चित कराने और निरीक्षण (ई-निरीक्षण सहित) करने हेतु प्रस्तुत किया गया है।",
+    "solution_hi": "",
+    "positive_marks": 4,
+    "negative_marks": 1
+  },
+  {
+    "question_en": "What is the penalty for paying less than due wages under the Code on Wages, 2019?वेतन संहिता, 2019 के अनुसार बकाया वेतन से कम भुगतान करने पर क्या दंड है?",
+    "question_hi": "",
+    "type": "multiple_choice",
+    "options": [
+      "Fine of ₹10,000",
+      "Fine of ₹20,000",
+      "Fine of ₹40,000",
+      "Fine of ₹50,000"
+    ],
+    "answer": 4,
+    "solution_en": "The Code prescribes a fine of ₹50,000 for paying less than due wages.वेतन संहिता, 2019 के अनुसार बकाया वेतन से कम भुगतान करने पर ₹50,000 का जुर्माना लगाया जाएगा।",
+    "solution_hi": "",
+    "positive_marks": 4,
+    "negative_marks": 1
+  },
+  {
+    "question_en": "What is the minimum number of employees required for applicability of the Payment of Wages Act, now merged under the Code on Wages, 2019?वेतन भुगतान अधिनियम (अब वेतन संहिता, 2019 में विलयित) की प्रयोज्यता के लिए न्यूनतम कर्मचारियों की संख्या क्या है?",
+    "question_hi": "",
+    "type": "multiple_choice",
+    "options": [
+      "10",
+      "20",
+      "No minimum limit",
+      "50"
+    ],
+    "answer": 3,
+    "solution_en": "The Code on Wages, 2019 removes the threshold—applicability is irrespective of the number of employees.वेतन संहिता, 2019 में न्यूनतम कर्मचारियों की कोई सीमा नहीं है। यह सभी संस्थानों पर लागू होता है।",
+    "solution_hi": "",
+    "positive_marks": 4,
+    "negative_marks": 1
+  },
+  {
+    "question_en": "Under the Code on Wages, 2019, how is “employee” defined?वेतन संहिता, 2019 में “कर्मचारी” की परिभाषा कैसे की गई है?",
+    "question_hi": "",
+    "type": "multiple_choice",
+    "options": [
+      "Only manual workers",
+      "Only those earning below minimum wage",
+      "Any person employed on wages, skilled, unskilled, managerial, supervisory or technical",
+      "Only factory workers"
+    ],
+    "answer": 3,
+    "solution_en": "The Code defines employee broadly to include all categories of workers: skilled, unskilled, managerial, supervisory, administrative, or technical.वेतन संहिता, 2019 में कर्मचारी की परिभाषा सभी श्रेणियों को शामिल करती है।",
+    "solution_hi": "",
+    "positive_marks": 4,
+    "negative_marks": 1
+  },
+  {
+    "question_en": "Which Article of the Indian Constitution empowers the State to fix minimum wages?भारतीय संविधान का कौन सा अनुच्छेद राज्य को न्यूनतम वेतन तय करने का अधिकार देता है?",
+    "question_hi": "",
+    "type": "multiple_choice",
+    "options": [
+      "Article 21",
+      "Article 23",
+      "Article 38",
+      "Article 43"
+    ],
+    "answer": 4,
+    "solution_en": "Article 43 (Directive Principles) directs the State to secure a living wage, fair wage, and decent standard of life.अनुच्छेद 43 राज्य को न्यूनतम वेतन और जीवनयापन योग्य वेतन सुनिश्चित करने का निर्देश देता है।",
+    "solution_hi": "",
+    "positive_marks": 4,
+    "negative_marks": 1
+  },
+  {
+    "question_en": "Which of the following is a core labour standard of the ILO?निम्नलिखित में से कौन-सा आईएलओ का मूल श्रम मानक है?",
+    "question_hi": "",
+    "type": "multiple_choice",
+    "options": [
+      "Right to property",
+      "Abolition of forced labour",
+      "Freedom of trade",
+      "Right to privacy"
+    ],
+    "answer": 2,
+    "solution_en": "Abolition of forced labour is one of the 8 core conventions of ILO.बलात श्रम का उन्मूलन आईएलओ की 8 मूल संधियों में से एक है।",
+    "solution_hi": "",
+    "positive_marks": 4,
+    "negative_marks": 1
+  },
+  {
+    "question_en": "The ILO Declaration of Philadelphia (1944) emphasized which principle?आईएलओ की फिलाडेल्फिया घोषणा (1944) ने किस सिद्धांत पर बल दिया?",
+    "question_hi": "",
+    "type": "multiple_choice",
+    "options": [
+      "Labour is not a commodity",
+      "Profit maximization",
+      "Labour supply should be free",
+      "State monopoly in labour"
+    ],
+    "answer": 1,
+    "solution_en": "Declaration of Philadelphia (1944) reaffirmed that labour is not a commodity and freedom of association is fundamental.फिलाडेल्फिया घोषणा (1944) में कहा गया कि श्रम कोई वस्तु नहीं है।",
+    "solution_hi": "",
+    "positive_marks": 4,
+    "negative_marks": 1
+  },
+  {
+    "question_en": "India is a member of the ILO since which year?भारत आईएलओ का सदस्य किस वर्ष से है?",
+    "question_hi": "",
+    "type": "multiple_choice",
+    "options": [
+      "1919",
+      "1922",
+      "1947",
+      "1950"
+    ],
+    "answer": 1,
+    "solution_en": "India is a founding member of ILO, joining in 1919 itself.भारत आईएलओ का संस्थापक सदस्य है और 1919 से इसका हिस्सा है।",
+    "solution_hi": "",
+    "positive_marks": 4,
+    "negative_marks": 1
+  },
+  {
+    "question_en": "How many conventions has India ratified out of the 8 core ILO conventions?आईएलओ की 8 मूल संधियों में से भारत ने कितनी संधियाँ अनुमोदित की हैं?",
+    "question_hi": "",
+    "type": "multiple_choice",
+    "options": [
+      "2",
+      "4",
+      "6",
+      "8"
+    ],
+    "answer": 2,
+    "solution_en": "India has ratified 4 out of 8 core ILO conventions (2 on child labour + 2 on forced labour).भारत ने आईएलओ की 8 मूल संधियों में से 4 संधियों का अनुमोदन किया है।",
+    "solution_hi": "",
+    "positive_marks": 4,
+    "negative_marks": 1
+  },
+  {
+    "question_en": "Which body is known as the “Parliament of Labour”?किस संस्था को “श्रम की संसद” कहा जाता है?",
+    "question_hi": "",
+    "type": "multiple_choice",
+    "options": [
+      "International Court of Justice",
+      "ILO Governing Body",
+      "International Labour Conference",
+      "UN General Assembly"
+    ],
+    "answer": 3,
+    "solution_en": "The International Labour Conference (ILC) is called the Parliament of Labour.अंतर्राष्ट्रीय श्रम सम्मेलन को श्रम की संसद कहा जाता है।",
+    "solution_hi": "",
+    "positive_marks": 4,
+    "negative_marks": 1
+  },
+  {
+    "question_en": "The ILO headquarters is located in?आईएलओ का मुख्यालय कहाँ स्थित है?",
+    "question_hi": "",
+    "type": "multiple_choice",
+    "options": [
+      "Geneva",
+      "Paris",
+      "London",
+      "New York"
+    ],
+    "answer": 1,
+    "solution_en": "The headquarters of ILO is in Geneva, Switzerland.आईएलओ का मुख्यालय जेनेवा, स्विट्ज़रलैंड में है।",
+    "solution_hi": "",
+    "positive_marks": 4,
+    "negative_marks": 1
+  },
+  {
+    "question_en": "The ILO is a specialized agency of?आईएलओ किसकी एक विशिष्ट एजेंसी है?",
+    "question_hi": "",
+    "type": "multiple_choice",
+    "options": [
+      "World Bank",
+      "United Nations",
+      "WTO",
+      "IMF"
+    ],
+    "answer": 2,
+    "solution_en": "The ILO became a specialized agency of the United Nations in 1946.1946 में आईएलओ संयुक्त राष्ट्र की एक विशिष्ट एजेंसी बना।",
+    "solution_hi": "",
+    "positive_marks": 4,
+    "negative_marks": 1
+  },
+  {
+    "question_en": "The Governing Body of the ILO consists of how many members?आईएलओ की गवर्निंग बॉडी में कितने सदस्य होते हैं?",
+    "question_hi": "",
+    "type": "multiple_choice",
+    "options": [
+      "56",
+      "112",
+      "187",
+      "28"
+    ],
+    "answer": 1,
+    "solution_en": "The Governing Body consists of 56 members: 28 Government, 14 Employer, 14 Worker representatives.आईएलओ गवर्निंग बॉडी में कुल 56 सदस्य होते हैं।",
+    "solution_hi": "",
+    "positive_marks": 4,
+    "negative_marks": 1
+  },
+  {
+    "question_en": "The International Labour Conference meets how many times in a year?अंतर्राष्ट्रीय श्रम सम्मेलन वर्ष में कितनी बार मिलता है?",
+    "question_hi": "",
+    "type": "multiple_choice",
+    "options": [
+      "Once",
+      "Twice",
+      "Thrice",
+      "Four times"
+    ],
+    "answer": 1,
+    "solution_en": "The ILC generally meets once a year in Geneva.अंतर्राष्ट्रीय श्रम सम्मेलन सामान्यतः वर्ष में एक बार जेनेवा में होता है।",
+    "solution_hi": "",
+    "positive_marks": 4,
+    "negative_marks": 1
+  },
+  {
+    "question_en": "Which of the following is NOT a function of the ILO?निम्नलिखित में से कौन-सा आईएलओ का कार्य नहीं है?",
+    "question_hi": "",
+    "type": "multiple_choice",
+    "options": [
+      "Adoption of labour standards",
+      "Supervising application of conventions",
+      "Providing technical assistance",
+      "Conducting national elections"
+    ],
+    "answer": 4,
+    "solution_en": "ILO does not conduct national elections; its role is confined to labour standards, conventions, and assistance.आईएलओ राष्ट्रीय चुनाव नहीं कराता।",
+    "solution_hi": "",
+    "positive_marks": 4,
+    "negative_marks": 1
+  },
+  {
+    "question_en": "Which ILO convention relates to child labour minimum age?कौन-सा आईएलओ कन्वेंशन बाल श्रम की न्यूनतम आयु से संबंधित है?",
+    "question_hi": "",
+    "type": "multiple_choice",
+    "options": [
+      "Convention 29",
+      "Convention 105",
+      "Convention 138",
+      "Convention 182"
+    ],
+    "answer": 3,
+    "solution_en": "ILO Convention 138 fixes the minimum age for admission to employment.आईएलओ कन्वेंशन 138 बाल श्रम की न्यूनतम आयु से संबंधित है।",
+    "solution_hi": "",
+    "positive_marks": 4,
+    "negative_marks": 1
+  },
+  {
+    "question_en": "Which ILO convention relates to worst forms of child labour?कौन-सा आईएलओ कन्वेंशन बाल श्रम के सबसे बुरे रूपों से संबंधित है?",
+    "question_hi": "",
+    "type": "multiple_choice",
+    "options": [
+      "Convention 29",
+      "Convention 182",
+      "Convention 111",
+      "Convention 100"
+    ],
+    "answer": 2,
+    "solution_en": "ILO Convention 182 prohibits and eliminates the worst forms of child labour.आईएलओ कन्वेंशन 182 बाल श्रम के सबसे बुरे रूपों के उन्मूलन से संबंधित है।",
+    "solution_hi": "",
+    "positive_marks": 4,
+    "negative_marks": 1
+  }
+]
