@@ -1,4 +1,4 @@
-import fs from "fs";
+import fs from "fs-extra";
 import mammoth from "mammoth";
 import { JSDOM } from "jsdom";
 
@@ -84,6 +84,11 @@ export default async function extractQuizTablesToJson(docxPath, outputPath) {
         // Step 4: Write output JSON
         fs.writeFileSync(outputPath, JSON.stringify(allQuizzes, null, 2), "utf-8");
         console.log(`✅ Extracted ${allQuizzes.length} question(s) → ${outputPath}`);
+        // fs.move(outputPath, "../../public/data", true, (e) => {
+        //     if (e) {
+        //         console.log("error while file moving");
+        //     }
+        // })
     } catch (error) {
         console.error("❌ Error extracting tables:", error);
         process.exit(1);

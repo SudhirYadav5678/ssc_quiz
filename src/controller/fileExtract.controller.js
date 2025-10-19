@@ -21,7 +21,7 @@ const fileExtraction = async function (req, res) {
 
 
     // file give to extraction or question
-    const fileData = await extractQuizTablesToJson(testFile, `C:\Users\SudhirYadav\quiz\public\data${fileName}.json`);
+    const fileData = await extractQuizTablesToJson(testFile, `${fileName}.json`);
     console.log(fileData);
 
 }
