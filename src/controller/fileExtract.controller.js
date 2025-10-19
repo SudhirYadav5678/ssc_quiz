@@ -24,6 +24,7 @@ const fileExtraction = async function (req, res) {
     const fileData = await extractQuizTablesToJson(testFile, `${fileName}.json`);
     console.log(fileData);
 
+    // foix: atfer file extraction server restart
 }
 
 export { fileExtraction }
