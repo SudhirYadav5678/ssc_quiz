@@ -3,7 +3,7 @@ import dotenv from "dotenv"
 import cors from 'cors'
 import userRoutes from "./rotuers/user.routes.js";
 import file from "./rotuers/fileExtract.router.js"
-
+import getQuestion from './rotuers/getQuestion.routes.js'
 
 dotenv.config({
     path: './.env'
@@ -46,6 +46,7 @@ app.get("/health", (req, res) => {
 })
 app.use("/api/v1/users", userRoutes)
 app.use("/api/v1/file", file)
+app.use("/api/v1/getQuestion", getQuestion)
 
 
 export { app }
